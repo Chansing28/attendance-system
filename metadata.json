@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Student Attendance \u0026 QR System",
+  "description": "A beautiful, fully-featured system to manage students, import/export Excel class lists, track hourly attendance, and generate QR codes for student self check-ins in Khmer and English.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
